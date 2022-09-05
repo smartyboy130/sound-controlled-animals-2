@@ -1,0 +1,41 @@
+body
+{
+    background-image: linear-gradient(lightgreen,aqua);
+}
+
+
+.footer_div
+{
+  position: fixed;
+  color: gray;
+  background-color: white;
+  width: 100%;
+  font-size: 18px;
+  line-height: 1.3;
+  bottom: 0;
+  text-align: center;
+  }
+
+  button
+{
+  width: 55px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.div_header
+{
+    font-family: 'DynaPuff', cursive;
+    background-color: greenyellow;
+}
+
+h3
+{
+    font-family: 'Aboreto', cursive;
+}
+
+#Picture
+{
+    border: black;
+    border-radius: 5;
+}
